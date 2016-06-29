@@ -3,7 +3,7 @@ _A nodejs module that check mysql table for changes by checking rows_
 
 # Install
 ```bash
-npm install nai-mysql-onchange
+npm install https://github.com/nainemom/nai-mysql-onchange.git
 ```
 ```js
 // existing connection
